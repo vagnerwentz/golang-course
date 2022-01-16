@@ -30,6 +30,7 @@ func main() {
 ```
 
 <h2>Using := again with the same variable</h2>
+
 ```go
 package main
 
@@ -46,6 +47,7 @@ func main() {
 ```
 
 <h2>Assigning to other type</h2>
+
 ```go
 package main
 
@@ -65,7 +67,7 @@ func main() {
 Other way to create a variable is to use `var` keyword, the `var` way is the same about short declaration operator but just we need to right more code.
 The `var` characteristic is equal when we try to change the type of the variable, we can not do this.
 
-```
+```go
 package main
 
 import "fmt"
