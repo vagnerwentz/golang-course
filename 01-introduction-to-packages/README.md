@@ -1,6 +1,4 @@
-<h1>📦 Packets 📦</h1>
-
-
+<h1>📦 Packages 📦</h1>
 
 To learn more about packages you can read this [article](https://www.callicoder.com/golang-packages/#:~:text=Go%20Package,files%2C%20or%20other%20Go%20packages.&text=The%20above%20package%20declaration%20must,in%20your%20Go%20source%20file.) created by RAJEEV SINGH
 
