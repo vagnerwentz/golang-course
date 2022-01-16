@@ -14,3 +14,5 @@ The repository intent is store some Go Lang codes.
 [Exploring types](https://github.com/vagnerwentz/golang-course/tree/main/03-exploring-type)
 
 [Zero values](https://github.com/vagnerwentz/golang-course/tree/main/04-zero-values)
+
+[Creating own type](https://github.com/vagnerwentz/golang-course/tree/main/05-creating-your-own-type)
