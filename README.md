@@ -16,3 +16,5 @@ The repository intent is store some Go Lang codes.
 [Zero values](https://github.com/vagnerwentz/golang-course/tree/main/04-zero-values)
 
 [Creating own type](https://github.com/vagnerwentz/golang-course/tree/main/05-creating-your-own-type)
+
+[Conversion not casting](https://github.com/vagnerwentz/golang-course/tree/main/06-conversion-not-casting)
