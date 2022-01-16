@@ -53,3 +53,22 @@ Using the code from the previous exercise.
    2. Now do this
       1. now use conversion to convert the type of the value stored in "x" to te underlying type
          1. then use the short declaration operator to assign that value to y
+
+   
+<h2>Quiz</h2>
+
+1. The smallest standalone element of a program that expresses some action to be carried out.
+A: Statement
+2. A combination of one or more explicit values, constants, variables, operators, and functions that the programming language interprets and computes to produce another value.
+A: Expression
+3. The "scope" of a variable is where you can access the variable, eg, write to it or read the value from it.
+A: True
+4. A "primitive" data TYPE is one that is built into the language AND/OR just a basic data type which is built into the language
+A: True
+5. When a variable is declared in Go using the "var" keyword, and no VALUE is ASSIGNED to that variable, then the compiler assigns a default value to the variable. This is known as the "zero value"
+A: True
+6. The "short declaration operator" can be used anywhere in a program, including at both the package level and at the block level.
+A: False
+7. What are the three words used to describe good package names in the "effective go" document?
+A: short, concise, evocative
+8. 
