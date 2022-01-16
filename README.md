@@ -18,3 +18,5 @@ The repository intent is store some Go Lang codes.
 [Creating own type](https://github.com/vagnerwentz/golang-course/tree/main/05-creating-your-own-type)
 
 [Conversion not casting](https://github.com/vagnerwentz/golang-course/tree/main/06-conversion-not-casting)
+
+[Exercise Level I](https://github.com/vagnerwentz/golang-course/tree/main/07-exercise-level-1)
