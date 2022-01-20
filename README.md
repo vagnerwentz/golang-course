@@ -20,3 +20,5 @@ The repository intent is store some Go Lang codes.
 [Conversion not casting](https://github.com/vagnerwentz/golang-course/tree/main/06-conversion-not-casting)
 
 [Exercise Level I](https://github.com/vagnerwentz/golang-course/tree/main/07-exercise-level-1)
+
+[Exercise Level II](https://github.com/vagnerwentz/golang-course/tree/main/08-exercise-level-2)
