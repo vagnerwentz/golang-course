@@ -30,3 +30,7 @@ The repository intent is store some Go Lang codes.
 [Grouping data](https://github.com/vagnerwentz/golang-course/tree/main/11-grouping-data)
 
 [Exercise Level IV](https://github.com/vagnerwentz/golang-course/tree/main/12-exercise-level-4)
+
+[Structs](https://github.com/vagnerwentz/golang-course/tree/main/13-structs)
+
+[Exercise Level IV](https://github.com/vagnerwentz/golang-course/tree/main/14-exercise-level-5)
